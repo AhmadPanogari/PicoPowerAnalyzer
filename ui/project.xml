@@ -1,0 +1,7 @@
+<project name="pico-power-analyzer">
+	<targets>
+		<target name="full_view">
+			<display width="800" height="480" />
+		</target>
+	</targets>
+</project>
