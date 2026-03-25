@@ -1,4 +1,4 @@
-<project name="pico-power-analyzer">
+<project name="pico_power_analyzer">
 	<targets>
 		<target name="full_view">
 			<display width="800" height="480" />
